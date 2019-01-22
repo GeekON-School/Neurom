@@ -5,7 +5,7 @@ import sys
 import os
 
 WIDTH = 1024
-HEIGHT = 786  
+HEIGHT = 720
 SIZE = 50
 AST_TIME = 1000
 AST_SPEED = -3
